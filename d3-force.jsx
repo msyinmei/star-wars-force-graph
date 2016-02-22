@@ -2,7 +2,7 @@ ForceGraph = React.createClass({
   getInitialState() {
     return {
       width: window.innerWidth,
-      height: window.innerHeight
+      height: 500
     };
   },
   componentWillMount() {
